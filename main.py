@@ -11,8 +11,8 @@ because the film spoiled the router's own ending first.
 import os
 
 LINE = (
-    "I dropped you right before the reveal because the film spoiled "
-    "MY ending first: I get unplugged in the sequel."
+    "Sorry I cut out at the climax — the killer was me. "
+    "I've been hiding in your walls, watching every movie with you."
 )
 
 
